@@ -1,0 +1,10 @@
+# GitHub Pages Konfiguration für Lernwörter.
+# Wir liefern reines HTML/CSS aus – kein Jekyll-Theme nötig.
+theme: null
+plugins: []
+
+# Sicherstellen, dass alle HTML-Dateien direkt veröffentlicht werden.
+include:
+  - "*.html"
+exclude:
+  - README.md
